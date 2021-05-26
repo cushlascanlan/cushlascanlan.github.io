@@ -1,4 +1,13 @@
 body {
-    background-color:rosybrown;
-    color:seashell;
+    background-color: white;
+    color: darkblue;
+    position: absolute;
+}
+
+.profile-image {
+    width:200px;
+    height:auto;
+    position: absolute;
+    top: 10px;
+    left: 800px;
 }
