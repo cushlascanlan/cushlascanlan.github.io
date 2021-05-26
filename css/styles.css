@@ -1,7 +1,8 @@
 body {
     background-color: white;
-    color: darkblue;
+    color: rgb(16, 16, 214);
     position: absolute;
+    font-family:'Crimson Text', serif;
 }
 
 .profile-image {
@@ -9,5 +10,5 @@ body {
     height:auto;
     position: absolute;
     top: 10px;
-    left: 800px;
+    left: 1050px;
 }
