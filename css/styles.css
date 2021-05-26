@@ -1,7 +1,6 @@
 body {
     background-color: white;
     color: rgb(16, 16, 214);
-    position: absolute;
     font-family:'Crimson Text', serif;
 }
 
@@ -10,5 +9,5 @@ body {
     height:auto;
     position: absolute;
     top: 10px;
-    left: 1050px;
+    right: 10px;
 }
